@@ -1,0 +1,23 @@
+h2 {
+  color: #003459;
+  display: inline;
+  padding-right: 150px;
+}
+
+.card {
+  background: #aeccc6;
+}
+.row {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.current-weather {
+  position: fixed;
+  top: 20px;
+  right: 620px;
+  font-size: 84px;
+}
+
+.col-6 {
+  font-weight: bold;
+}
