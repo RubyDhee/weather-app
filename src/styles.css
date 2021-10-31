@@ -40,7 +40,7 @@ h2 {
   color: #455d7a;
   border-radius: 5px;
 }
-#code {
-  font-size: small;
+small {
+  color: #455d7a;
   margin-left: 52px;
 }
