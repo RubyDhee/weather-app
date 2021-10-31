@@ -1,11 +1,17 @@
 h2 {
-  color: #003459;
+  color: #455d7a;
   display: inline;
+  font-size: 1.8rem;
+  margin-left: 20px;
   padding-right: 150px;
 }
 
 .card {
-  background: #aeccc6;
+  background: #dffcad;
+}
+.searchCity {
+  margin-left: 20px;
+  margin-bottom: 20px;
 }
 .row {
   margin-top: 20px;
@@ -13,11 +19,28 @@ h2 {
 }
 .current-weather {
   position: fixed;
-  top: 20px;
-  right: 620px;
-  font-size: 84px;
+  top: 10px;
+  right: 350px;
+  font-size: 60px;
+}
+.col-6 {
+  color: #455d7a;
+  font-weight: bold;
+}
+#now,
+#description {
+  padding-left: 34px;
 }
 
-.col-6 {
-  font-weight: bold;
+.card .forecast {
+  background: #f1f1f1;
+}
+.col-2 {
+  text-align: center;
+  color: #455d7a;
+  border-radius: 5px;
+}
+#code {
+  font-size: small;
+  margin-left: 52px;
 }
